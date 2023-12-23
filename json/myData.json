@@ -1,0 +1,9 @@
+{
+    "string": "Gangmin",
+    "number": 123,
+    "boolean": true,
+    "null": null,
+    "object":{},
+    "array": []
+}
+
